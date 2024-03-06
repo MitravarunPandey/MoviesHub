@@ -1,0 +1,53 @@
+﻿@model MovieStoreMvc.Models.DTO.MovieListVm
+@{
+    Layout = "_Layout";
+}
+<section class="search-bar">
+    <form method="get" asp-action="Index" onsubmit="encodeSearchTerm()">
+        <input type="text" name="term" id="searchTerm" placeholder="search here">
+        <button type="submit"><i class="fa fa-search"></i></button>
+        <a class="btn btn-default" href="/Home/Index">All</a>
+    </form>
+</section>
+<section class="nm-collections-metadata" data-uia="collections-billboard-metadata"><div class="nm-collections-metadata-title"><h1>Movies</h1></div><div class="nm-collections-metadata-synopsis"> <!-- -->Movies move us like nothing else can, whether they’re scary, funny, dramatic, romantic or anywhere in-between. So many titles, so much to experience.<!-- --> </div></section>
+<section class="movies">
+    @foreach (var movie in Model.MovieList)
+    {
+        <div class="movie-card" onclick="window.location.href='/Home/MovieDetail?movieId=@movie.Id'">
+            <div class="movie-image">
+                <img src="/Uploads/@movie.MovieImage" style="width: 215px; height: 301px;">
+            </div>
+
+            <div class="movie-info">
+                <h4>@movie.Title</h4>
+          @*       <h4>@movie.GenreNames</h4>
+                <h4>@movie.ReleaseYear</h4>
+                <a href="@movie.MovieLink" target="_blank" class="custom-link">Click Here</a> *@
+               
+                <!-- <h4>Cast: @movie.Cast</h4>
+                <h4>Director: @movie.Director</h4> -->
+            </div>
+        </div>
+    }
+</section>
+
+
+<div class="pagination">
+    @for(int i=1;i<=Model.TotalPages;i++){
+        if(i==Model.CurrentPage){
+            <a href="/Home/Index?currentPage=@i&term=@Model.Term" class="active">@i</a>
+        }
+        else{
+            <a href="/Home/Index?currentPage=@i&term=@Model.Term">@i</a>
+
+        }
+    }
+   
+</div>
+<script>
+    function encodeSearchTerm() {
+        debugger;
+        var searchTermInput = document.getElementById('searchTerm');
+        searchTermInput.value = encodeURIComponent(searchTermInput.value.trim());
+    }
+</script>

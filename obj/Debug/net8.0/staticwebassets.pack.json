@@ -1,0 +1,201 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\Uploads\\04eea7a0-945e-4033-a3dc-cd35e3d8249f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\04eea7a0-945e-4033-a3dc-cd35e3d8249f.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\Uploads\\0ff4f9ba-ed22-41ac-883a-5acc20d3281a.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0ff4f9ba-ed22-41ac-883a-5acc20d3281a.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\Uploads\\20395940-579b-429f-8f8c-2a26d01d6777.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\20395940-579b-429f-8f8c-2a26d01d6777.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\Uploads\\80aa7ee2-fb2f-4864-ad41-bf644a64d3d4.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\80aa7ee2-fb2f-4864-ad41-bf644a64d3d4.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\Uploads\\8434c951-4e27-4d0c-8b08-07e2af7006a2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\8434c951-4e27-4d0c-8b08-07e2af7006a2.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\Uploads\\86346f3e-1f99-4f83-aa53-704f200da231.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\86346f3e-1f99-4f83-aa53-704f200da231.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\Uploads\\8f4fe08a-da7d-4f8f-a4bc-851850b1d983.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\8f4fe08a-da7d-4f8f-a4bc-851850b1d983.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\Uploads\\999fa6df-7c19-40d3-ba1e-bf7e5a74fe33.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\999fa6df-7c19-40d3-ba1e-bf7e5a74fe33.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\Uploads\\c8edb3f6-f0c0-49db-b7f0-08a1130bd0df.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\c8edb3f6-f0c0-49db-b7f0-08a1130bd0df.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\Uploads\\d3a5ed3d-adaa-4a80-8d3e-c80be63ca8aa.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d3a5ed3d-adaa-4a80-8d3e-c80be63ca8aa.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\Uploads\\d7e7b956-c987-4ed1-9549-a5a41edde289.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\d7e7b956-c987-4ed1-9549-a5a41edde289.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\Uploads\\e1cc5b25-9eeb-47a5-a5cd-bff41ebf07fd.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\e1cc5b25-9eeb-47a5-a5cd-bff41ebf07fd.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\Uploads\\eeb8c3cd-75a2-4253-8ee8-e321113b4c6d.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\eeb8c3cd-75a2-4253-8ee8-e321113b4c6d.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\Uploads\\f9d09dec-6bcb-4c4b-ba7e-611a23fcb246.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f9d09dec-6bcb-4c4b-ba7e-611a23fcb246.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\images\\288302-movie-posters-wallpaper.jpg",
+      "PackagePath": "staticwebassets\\images\\288302-movie-posters-wallpaper.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\images\\moviesadda.png",
+      "PackagePath": "staticwebassets\\images\\moviesadda.png"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\images\\netflix-logo-png-2562.png",
+      "PackagePath": "staticwebassets\\images\\netflix-logo-png-2562.png"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\images\\netflix-logo-png-2574.png",
+      "PackagePath": "staticwebassets\\images\\netflix-logo-png-2574.png"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\images\\netflix.jpg",
+      "PackagePath": "staticwebassets\\images\\netflix.jpg"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\DotNet\\GitHub Project\\MovieStoreMvc-master\\MovieStoreMvc-master\\MovieStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MovieStoreMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MovieStoreMvc.props",
+      "PackagePath": "build\\MovieStoreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieStoreMvc.props",
+      "PackagePath": "buildMultiTargeting\\MovieStoreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MovieStoreMvc.props",
+      "PackagePath": "buildTransitive\\MovieStoreMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

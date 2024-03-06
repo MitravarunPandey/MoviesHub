@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\DotNet\GitHub Project\MovieStoreMvc-master\MovieStoreMvc-master\MovieStoreMvc\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-02-21T14:02:06.0166916Z;True|2024-02-21T19:19:53.3904407+05:30;True|2024-02-21T13:50:41.9442737+05:30;True|2024-02-21T13:18:50.7489715+05:30;True|2024-02-20T15:11:39.9877579+05:30;True|2024-02-20T14:58:12.8750504+05:30;True|2024-02-20T14:44:50.5508619+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
