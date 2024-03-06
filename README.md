@@ -4,7 +4,7 @@ Now upgraded to .net 8.0
 
 # How to run it
 1. clone the project
-   `git clone https://github.com/rd003/MovieStoreMvc.git`
+   `git clone https://github.com/MitravarunPandey/MoviesHub.git`
 2. open `appsettings.json` file and update connection string's `data source=your server name`
    
    ``` 
